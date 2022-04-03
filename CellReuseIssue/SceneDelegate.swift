@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  CellReuseIssue
 //
-//  Created by Fabio Cuomo on 3/4/22.
+//  Created by Fabio on 3/4/22.
 //
 
 import UIKit

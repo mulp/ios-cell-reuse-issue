@@ -1,0 +1,6 @@
+framework module Pods_CellReuseIssue {
+  umbrella header "Pods-CellReuseIssue-umbrella.h"
+
+  export *
+  module * { export * }
+}
